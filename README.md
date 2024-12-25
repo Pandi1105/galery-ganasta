@@ -1,0 +1,2 @@
+# galery-ganasta
+pnd.web
